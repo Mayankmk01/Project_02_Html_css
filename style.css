@@ -1,0 +1,157 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    font-size: 25px;
+    display: flex;
+    background-color: aqua;
+    padding: 7px 200px;
+}
+
+.nav1 {
+    font-size: 30px;
+    padding: 11px 30px;
+    margin: 9px 10px
+}
+#dap{
+    position: relative;
+    left: -192px;
+    margin: 5px 5px;
+    padding: 4px 7px;
+}
+nav.searchbox{
+    font-size: 30px;
+    margin: 5px 5px;
+    padding: 4px 7px;
+}
+
+
+
+.image1 {
+    padding: 33px 208px;
+    margin: 29px 30px;
+    width: 368px;
+    height: 326px;
+    border-radius: 28px;
+}
+
+#text1 {
+    font-size: 24px;
+    padding: 30px 196px;
+    margin: 28px 65px;
+    width: 413px;
+    height: 330px;
+    border-radius: 12px;
+    background-color: lightpink;
+}
+.image2 {
+    margin: 4px;
+    height: 348px;
+    width: 79px;
+    float: right;
+    position: fixed;
+    right: 9px;
+}
+#card {
+    margin: 18px 136px;
+    width: 1002px;
+    height: 103px;
+    border-radius: 10px;
+    display: flex;
+    padding: 14px 159px;
+    font-size: 32px;
+}
+
+
+p.box1 {
+    color: rgb(237, 233, 241);
+    box-shadow: rgb(107, 165, 223);
+    background-color: rgb(190, 170, 245);
+    border-radius: 5px;
+    margin: 3px 19px;
+    padding: 8px 12px;
+}
+
+p.box2 {
+    color: rgb(46, 13, 231);
+    background-color: violet;
+    border-radius: 5px;
+    margin: 3px 19px;
+    padding: 8px 12px;
+}
+
+p.box3 {
+    color: rgb(248, 243, 243);
+    background-color: rgb(235, 142, 235);
+    border-radius: 5px;
+    margin: 3px 19px;
+    padding: 8px 12px;
+}
+
+
+p.box4 {
+    color: rgb(247, 237, 237);
+    background-color: rgb(12, 11, 12);
+    border-radius: 5px;
+    margin: 3px 19px;
+    padding: 8px 12px;
+}
+
+.foot {
+    margin: 75px 48px;
+    padding: 18px 8px;
+    width: 1600px;
+    height: 500px;
+    font-size: 20px;
+    border-radius: 13px;
+}
+ .flex {
+    display: flex;
+    flex-direction: column;
+    width: 355px;
+    margin: 15px 14px;
+    padding: 16px 10px;
+}
+div>input{
+    text-align: center;
+    font-size: 34px;
+    margin: 10px 2px;
+    padding: 10px 0px;
+    border-radius: 10px;
+}
+#textarea{
+    color: white;
+    position: absolute;
+    top: 96%;
+    right: 225px;
+    font-size: 25px;
+    padding: 27px 161px;
+    margin: 23px 58px;
+    width: 350px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(27, 56, 182);
+}
+button{ 
+    width: 129px;
+    font-size: 20px;
+    padding: 12px 7px;
+    margin: 9px 30px;
+    color: white;
+    position: absolute;
+    right: 342px;
+    background-color: black;
+}
+
+.img2{
+    position: absolute;
+    margin: 88px;
+    height: 113px;
+    width: 128px;
+    float: right;
+    right: 211px;
+}
